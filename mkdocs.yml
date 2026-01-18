@@ -1,0 +1,14 @@
+site_name: Lucy and Alistair's Recipes
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - search.highlight
+    - search.suggest
+
+plugins:
+  - search
+  - awesome-pages

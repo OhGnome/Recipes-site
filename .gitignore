@@ -1,0 +1,14 @@
+# Obsidian (never commit editor state)
+.obsidian/
+docs/.obsidian/
+
+# MkDocs build output
+site/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
