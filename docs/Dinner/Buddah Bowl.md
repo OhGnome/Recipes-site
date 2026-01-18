@@ -13,7 +13,7 @@ status: loved
 rating: "9"
 ---
 
-# Gut-Loving Buddha Bowls (Harissa Dressing)
+# Harissa Dressing Buddha Bowl
 
 ## Ingredients
 

@@ -2,10 +2,13 @@
 type: recipe
 source: Alistair
 cuisine: Breakfast
-meal: Breakfast
-time: 20 minutes
+meal: Breakfast / Brunch
+time: 10 minutes
 tags:
   - Eggs
+  - Brunch
+  - Easy
+  - Quick
 status:
 rating: "10"
 ---
@@ -17,6 +20,7 @@ rating: "10"
 - Crispy Onions
 - Tabasco
 - Salt/Pepper
+- Optional: Egg Seasoning
 
 ## Method
 1. Fry eggs
@@ -28,8 +32,7 @@ rating: "10"
 
 ## Cooking Notes & Changes
 - Add egg seasoning for more flavour
-- Best with black coffee
-- 
+- Throw some wafer thin ham in the pan
 
 ## Notes
-- Perfect meal
+- Best with black coffee
