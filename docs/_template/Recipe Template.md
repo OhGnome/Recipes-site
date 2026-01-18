@@ -9,7 +9,7 @@ status:
 rating: 
 ---
 
-# {{title}}
+# Recipe Template
 
 ## Ingredients
 - 
