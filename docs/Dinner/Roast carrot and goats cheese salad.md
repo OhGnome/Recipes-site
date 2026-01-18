@@ -10,8 +10,8 @@ tags:
   - goats-cheese
   - vegetarian
   - air-fryer
-status: tested-source
-rating: "10"
+status: loved
+rating: "8"
 ---
 
 # Roast Carrot & Goat’s Cheese Salad
