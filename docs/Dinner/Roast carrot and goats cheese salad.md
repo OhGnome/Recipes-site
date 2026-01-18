@@ -55,7 +55,7 @@ rating: "8"
 14. Finish with any remaining dressing from the bowl.
 
 ## Rating
-- ⭐⭐⭐⭐⭐  
+- ⭐⭐⭐⭐ 
 
 ## Cooking Notes & Changes
 - Use Halloumi instead
